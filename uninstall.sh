@@ -1,1 +1,1 @@
-sudo dnf uninstall remmina remmina-gnome-session remmina-plugins-kwallet remmina-plugins-spice remmina-plugins-www
+sudo dnf remove remmina remmina-gnome-session remmina-plugins-kwallet remmina-plugins-spice remmina-plugins-www
